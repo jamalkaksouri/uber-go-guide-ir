@@ -14,7 +14,7 @@
 #### این مخزن به موازات نسخه اصلی آن به صورت بلادرنگ آپدیت خواهد شد. همچنین می‌توانید لیست کامل تغییرات را در فایل [CHANGELOG.md](https://github.com/uber-go/guide/blob/master/CHANGELOG.md) مشاهده کنید.
 
 ##
-> [!همکاری]  
+> [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
 ## فهرست مطالب
