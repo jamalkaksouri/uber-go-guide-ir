@@ -15,7 +15,7 @@
 
 ## نسخه
 - نسخه فعلی: [2023-05-09](https://github.com/uber-go/guide/blob/master/CHANGELOG.md#2023-05-09)
-- آخرین کامیت: [#174](https://github.com/uber-go/guide/pull/174) 
+- آخرین کامیت: [174#](https://github.com/uber-go/guide/pull/174) 
 
 ##
 > [!NOTE]  
